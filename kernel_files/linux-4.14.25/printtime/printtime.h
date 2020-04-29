@@ -1,0 +1,1 @@
+asmlinkage long sys_printtime(char *str, int pid, struct timespec *start, struct timespec *end);

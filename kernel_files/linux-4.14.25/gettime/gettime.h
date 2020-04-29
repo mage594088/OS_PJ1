@@ -1,0 +1,1 @@
+asmlinkage long sys_gettime(struct timespec *ts);
